@@ -1,7 +1,11 @@
-opencv-python-headless
-streamlit
+torch>=1.7.0
+torchvision>=0.8.1
 opencv-python
-torch
-torchvision
 numpy
-Pillow
+pandas
+tqdm
+matplotlib
+seaborn
+scipy
+git+https://github.com/ultralytics/yolov5.git
+streamlit
