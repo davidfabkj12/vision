@@ -1,5 +1,4 @@
-python-3.9
-opencv-python-headless==4.7.0.72
+opencv-python-headless
 streamlit
 opencv-python
 torch
